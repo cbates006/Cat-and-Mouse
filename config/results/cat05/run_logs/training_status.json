@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 4499839,
+                "file_path": "results\\cat05\\Cat\\Cat-4499839.onnx",
+                "reward": -104.25716400146484,
+                "creation_time": 1733336088.570877,
+                "auxillary_file_paths": [
+                    "results\\cat05\\Cat\\Cat-4499839.pt"
+                ]
+            },
+            {
+                "steps": 4999916,
+                "file_path": "results\\cat05\\Cat\\Cat-4999916.onnx",
+                "reward": -208.36670430501303,
+                "creation_time": 1733336998.6928313,
+                "auxillary_file_paths": [
+                    "results\\cat05\\Cat\\Cat-4999916.pt"
+                ]
+            },
+            {
+                "steps": 5499316,
+                "file_path": "results\\cat05\\Cat\\Cat-5499316.onnx",
+                "reward": null,
+                "creation_time": 1733337911.9326973,
+                "auxillary_file_paths": [
+                    "results\\cat05\\Cat\\Cat-5499316.pt"
+                ]
+            },
+            {
+                "steps": 5999958,
+                "file_path": "results\\cat05\\Cat\\Cat-5999958.onnx",
+                "reward": -68.5333480834961,
+                "creation_time": 1733338828.7718031,
+                "auxillary_file_paths": [
+                    "results\\cat05\\Cat\\Cat-5999958.pt"
+                ]
+            },
+            {
+                "steps": 6291994,
+                "file_path": "results\\cat05\\Cat\\Cat-6291994.onnx",
+                "reward": -154.88002853393556,
+                "creation_time": 1733339376.4908283,
+                "auxillary_file_paths": [
+                    "results\\cat05\\Cat\\Cat-6291994.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6291994,
+            "file_path": "results\\cat05\\Cat.onnx",
+            "reward": -154.88002853393556,
+            "creation_time": 1733339376.4908283,
+            "auxillary_file_paths": [
+                "results\\cat05\\Cat\\Cat-6291994.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.1+cpu"
+    }
+}

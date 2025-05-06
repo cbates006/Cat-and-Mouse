@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class Mouse : MonoBehaviour
 {
-    private Vector2 moveDirection;
+    public Vector2 moveDirection;
     private float speed = 10;
     private float randomness;
 

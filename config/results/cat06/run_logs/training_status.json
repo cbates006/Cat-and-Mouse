@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 999976,
+                "file_path": "results\\cat06\\Cat\\Cat-999976.onnx",
+                "reward": -17.622237311469185,
+                "creation_time": 1733341969.1227424,
+                "auxillary_file_paths": [
+                    "results\\cat06\\Cat\\Cat-999976.pt"
+                ]
+            },
+            {
+                "steps": 1499136,
+                "file_path": "results\\cat06\\Cat\\Cat-1499136.onnx",
+                "reward": 2.173673629760742,
+                "creation_time": 1733342905.7255042,
+                "auxillary_file_paths": [
+                    "results\\cat06\\Cat\\Cat-1499136.pt"
+                ]
+            },
+            {
+                "steps": 1999312,
+                "file_path": "results\\cat06\\Cat\\Cat-1999312.onnx",
+                "reward": 44.818745255470276,
+                "creation_time": 1733343845.5567908,
+                "auxillary_file_paths": [
+                    "results\\cat06\\Cat\\Cat-1999312.pt"
+                ]
+            },
+            {
+                "steps": 2499904,
+                "file_path": "results\\cat06\\Cat\\Cat-2499904.onnx",
+                "reward": 38.8184161939119,
+                "creation_time": 1733344812.7672834,
+                "auxillary_file_paths": [
+                    "results\\cat06\\Cat\\Cat-2499904.pt"
+                ]
+            },
+            {
+                "steps": 2734116,
+                "file_path": "results\\cat06\\Cat\\Cat-2734116.onnx",
+                "reward": null,
+                "creation_time": 1733345283.596592,
+                "auxillary_file_paths": [
+                    "results\\cat06\\Cat\\Cat-2734116.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2734116,
+            "file_path": "results\\cat06\\Cat.onnx",
+            "reward": null,
+            "creation_time": 1733345283.596592,
+            "auxillary_file_paths": [
+                "results\\cat06\\Cat\\Cat-2734116.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.1+cpu"
+    }
+}

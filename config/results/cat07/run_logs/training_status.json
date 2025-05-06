@@ -1,0 +1,56 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 499371,
+                "file_path": "results\\cat07\\Cat\\Cat-499371.onnx",
+                "reward": -299.9500427246094,
+                "creation_time": 1733346728.4560344,
+                "auxillary_file_paths": [
+                    "results\\cat07\\Cat\\Cat-499371.pt"
+                ]
+            },
+            {
+                "steps": 999595,
+                "file_path": "results\\cat07\\Cat\\Cat-999595.onnx",
+                "reward": 49.412495732307434,
+                "creation_time": 1733347609.4166162,
+                "auxillary_file_paths": [
+                    "results\\cat07\\Cat\\Cat-999595.pt"
+                ]
+            },
+            {
+                "steps": 1499601,
+                "file_path": "results\\cat07\\Cat\\Cat-1499601.onnx",
+                "reward": null,
+                "creation_time": 1733348531.140911,
+                "auxillary_file_paths": [
+                    "results\\cat07\\Cat\\Cat-1499601.pt"
+                ]
+            },
+            {
+                "steps": 1885850,
+                "file_path": "results\\cat07\\Cat\\Cat-1885850.onnx",
+                "reward": null,
+                "creation_time": 1733349266.502828,
+                "auxillary_file_paths": [
+                    "results\\cat07\\Cat\\Cat-1885850.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1885850,
+            "file_path": "results\\cat07\\Cat.onnx",
+            "reward": null,
+            "creation_time": 1733349266.502828,
+            "auxillary_file_paths": [
+                "results\\cat07\\Cat\\Cat-1885850.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.1+cpu"
+    }
+}
