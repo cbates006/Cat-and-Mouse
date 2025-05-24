@@ -8,6 +8,6 @@ A simple agent trained to track an object in the scene no matter where the agent
 - Begin training
 
 ## Training
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=x5q_CmfpI5Q)
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://www.youtube.com/watch?v=x5q_CmfpI5Q))](https://www.youtube.com/watch?v=x5q_CmfpI5Q)
 
 ## Result
