@@ -10,7 +10,7 @@ A simple agent trained to track an object in the scene no matter where the agent
 ## Training
 Sample of training process
 
-[![Training](https://img.youtube.com/vi/x5q_CmfpI5Q/0.jpg](https://www.youtube.com/watch?v=x5q_CmfpI5Q))](https://www.youtube.com/watch?v=x5q_CmfpI5Q)
+[![Training](https://img.youtube.com/vi/x5q_CmfpI5Q/0.jpg)](https://www.youtube.com/watch?v=x5q_CmfpI5Q)
 
 ## Result
 Performance after training for two hours
