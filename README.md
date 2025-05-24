@@ -1,4 +1,5 @@
 # Cat and Mouse: An RL-Based Project built using MLAgents
+A simple agent trained to track an object in the scene no matter where the agent or object randomly spawns. 
 
 ## Setup
 - Download the GitHub repository
