@@ -15,4 +15,4 @@ Sample of training process
 ## Result
 Performance after training for two hours
 
-[![Performance](https://www.youtube.com/watch?v=o5f-SpcjkTg)
+[![Performance](https://i9.ytimg.com/vi_webp/o5f-SpcjkTg/mq2.webp?sqp=CPDTyMEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgEyh_MA8=&rs=AOn4CLAg9OeDwFh4BXUrdrNjjkaFb9oY7g)](https://www.youtube.com/watch?v=o5f-SpcjkTg)
