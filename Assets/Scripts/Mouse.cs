@@ -5,10 +5,7 @@ using UnityEngine.EventSystems;
 
 public class Mouse : MonoBehaviour
 {
-    public Vector2 moveDirection;
-    private float speed = 10;
-    private float randomness;
-
+    /*
     void Start()
     {
         // Set the initial move direction to a normalized vector (for example, upwards-right)
@@ -16,6 +13,12 @@ public class Mouse : MonoBehaviour
 
 
     }
+    /*
+    public Vector2 moveDirection;
+    private float speed = 10;
+    private float randomness;
+
+    
 
     // Update is called once per frame
     void Update()
@@ -57,7 +60,7 @@ public class Mouse : MonoBehaviour
         {
             moveDirection.x = -0.5f;
         }*/
-
+    /*
         // Reflect the direction of the bullet based on the wall hit. For top and bottom change Y direction and right and left change X direction
         if (wall.CompareTag("WallTop") || wall.CompareTag("WallBottom"))
         {
@@ -68,5 +71,5 @@ public class Mouse : MonoBehaviour
         {
             moveDirection = new Vector2(-moveDirection.x, moveDirection.y);
         }
-    }
+    }*/
 }

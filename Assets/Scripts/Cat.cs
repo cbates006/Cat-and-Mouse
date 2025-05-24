@@ -27,7 +27,7 @@ public class Cat : Agent
         resetSpawn(catTransform);
         resetSpawn(mouseTransform);
         Debug.Log("begin");
-        mouseScript.moveDirection = Random.insideUnitCircle.normalized;
+        //mouseScript.moveDirection = Random.insideUnitCircle.normalized;
     }
 
     public override void CollectObservations(VectorSensor sensor)

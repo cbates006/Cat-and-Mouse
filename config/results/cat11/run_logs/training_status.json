@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499997,
+                "file_path": "results\\cat11\\Cat\\Cat-3499997.onnx",
+                "reward": 71.19862982344954,
+                "creation_time": 1748035357.2511373,
+                "auxillary_file_paths": [
+                    "results\\cat11\\Cat\\Cat-3499997.pt"
+                ]
+            },
+            {
+                "steps": 3846329,
+                "file_path": "results\\cat11\\Cat\\Cat-3846329.onnx",
+                "reward": 72.27814069584986,
+                "creation_time": 1748035984.9282103,
+                "auxillary_file_paths": [
+                    "results\\cat11\\Cat\\Cat-3846329.pt"
+                ]
+            },
+            {
+                "steps": 3999307,
+                "file_path": "results\\cat11\\Cat\\Cat-3999307.onnx",
+                "reward": 71.41686080222907,
+                "creation_time": 1748037366.4549184,
+                "auxillary_file_paths": [
+                    "results\\cat11\\Cat\\Cat-3999307.pt"
+                ]
+            },
+            {
+                "steps": 4499993,
+                "file_path": "results\\cat11\\Cat\\Cat-4499993.onnx",
+                "reward": 69.13316290719169,
+                "creation_time": 1748038306.910688,
+                "auxillary_file_paths": [
+                    "results\\cat11\\Cat\\Cat-4499993.pt"
+                ]
+            },
+            {
+                "steps": 4967691,
+                "file_path": "results\\cat11\\Cat\\Cat-4967691.onnx",
+                "reward": 72.23834935901235,
+                "creation_time": 1748039224.7207406,
+                "auxillary_file_paths": [
+                    "results\\cat11\\Cat\\Cat-4967691.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4967691,
+            "file_path": "results\\cat11\\Cat.onnx",
+            "reward": 72.23834935901235,
+            "creation_time": 1748039224.7207406,
+            "auxillary_file_paths": [
+                "results\\cat11\\Cat\\Cat-4967691.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.4.1+cpu"
+    }
+}
